@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">spajam2024</string>
+    <string name="title_activity_main">spajam2024</string>
+    <string name="package_name">spajam2024.ionic.io</string>
+    <string name="custom_url_scheme">spajam2024.ionic.io</string>
+</resources>
